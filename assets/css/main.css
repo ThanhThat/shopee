@@ -1146,11 +1146,12 @@
     border-radius: 4px;
     user-select: none;
     -webkit-user-select: none;
+    padding: 0 6px;
 }
 
 /* product item */
 .home-product {
-    margin: 0 4px 10px;
+    margin: 0 0px 10px;
 }
 
 .home-product-item {

@@ -44,6 +44,10 @@
     .app__content {
         margin-top: -28px;
     }
+
+    .home-product {
+        margin: 0 8px 10px;
+    }
 }
 
 /* tablet */
@@ -130,4 +134,21 @@
         font-size: 1.6rem;
         min-width: 36px;
     }
+
+    .footer-item__link {
+        display: block;
+    }
+
+    .footer__section {
+        text-align: center;
+    }
+    
+    .footer__download {
+        justify-content: center;
+    }
+
+    .footer__download-apps {
+        flex: 0;
+    }
+
 }
